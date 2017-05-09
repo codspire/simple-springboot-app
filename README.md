@@ -1,9 +1,14 @@
 # simple-springboot-app
 Simple Spring Boot App for AWS hands-on
 
-Start the server
 
-java -jar distribution/simple-springboot-app-0.1.0.jar
+# AWS Steps
+sudo yum update
 
-Access the page
-http://localhost
+sudo yum install git
+sudo yum install java-1.8.0
+sudo yum remove java-1.7.0-openjdk
+
+wget https://raw.githubusercontent.com/codspire/simple-springboot-app/master/distribution/simple-springboot-app-0.1.0.jar
+
+sudo java -jar simple-springboot-app-0.1.0.jar
