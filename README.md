@@ -23,3 +23,5 @@ Access: http://"ec2 public url"
 
 ## Deploying Using Elastic Beanstalk
 https://aws.amazon.com/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/
+https://pragmaticintegrator.wordpress.com/2016/07/12/run-your-spring-boot-application-on-aws-using-elastic-beanstalk/
+https://exampledriven.wordpress.com/2017/01/09/spring-boot-aws-elastic-beanstalk-example/
