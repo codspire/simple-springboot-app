@@ -2,7 +2,7 @@
 Simple Spring Boot App for AWS hands-on
 
 
-# AWS Steps
+## Bootstraping using EC2 User Data
 ``` sh
 sudo yum update -y
 ```
@@ -20,3 +20,6 @@ wget https://raw.githubusercontent.com/codspire/simple-springboot-app/master/dis
 sudo java -jar simple-springboot-app-0.1.0.jar
 ```
 Access: http://"ec2 public url"
+
+## Deploying Using Elastic Beanstalk
+https://aws.amazon.com/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/
